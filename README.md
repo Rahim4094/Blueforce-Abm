@@ -7,8 +7,8 @@
 ```
 apt update && apt upgrade
 apt install git
-apt install python2 -y
-apt install python3 -y
+pkg install python2 -y
+pkg install python3 -y
 pip install mechanize 
 pip install requests 
 pip install bs4
