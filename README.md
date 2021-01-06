@@ -8,7 +8,7 @@
 apt update && apt upgrade
 apt install git
 pkg install python2 -y
-pkg install python3 -y
+pkg install python -y
 pip install mechanize 
 pip install requests 
 pip install bs4
