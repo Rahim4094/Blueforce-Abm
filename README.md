@@ -10,7 +10,7 @@ pkg install python2 -y
 pkg install git -y
 pip2 install mechanize 
 pip2 install requests 
-pip install bs4
+pip2 install bs4
 rm -rf Blueforce-Abm
 git clone https://github.com/Tech-abm/Blueforce-Abm
 cd Blueforce-Abm
